@@ -1,5 +1,7 @@
 # OpenRouter Cost Chart
 
+<img src="branding/openrouter-cost-chart.png" alt="Logo of the app" width="100%"/>
+
 A data-dense cost comparison dashboard for [OpenRouter](https://openrouter.ai) AI models. Built with Next.js, it fetches live pricing and benchmark data from the OpenRouter API and displays it in a sortable, filterable table with an efficiency scoring system.
 
 ## Features
